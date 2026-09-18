@@ -1,0 +1,10 @@
+{
+  "description": "This professional showcase website offers personal coaching services by Cédric Conche, helping individuals transform their inner struggles into peace and strength.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
